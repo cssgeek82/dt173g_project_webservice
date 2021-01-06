@@ -1,0 +1,25 @@
+
+*Locally: 
+
+*Studies: 
+Create: localhost/dt173gprojekt/studies.php
+Read: localhost/dt173gprojekt/studies.php
+Read one: localhost/dt173gprojekt/studies.php?id=X
+Update: localhost/dt173gprojekt/studies.php?id=X
+Delete: localhost/dt173gprojekt/studies.php?id=X
+
+*Createdwebb: 
+Create: localhost/dt173gprojekt/createdwebb.php
+Read: localhost/dt173gprojekt/createdwebb.php
+Read one: localhost/dt173gprojekt/createdwebb.php?id=X
+Update: localhost/dt173gprojekt/createdwebb.php?id=X
+Delete: localhost/dt173gprojekt/createdwebb.php?id=X
+
+*Workexperience: 
+Create: localhost/dt173gprojekt/workexperience.php
+Read: localhost/dt173gprojekt/workexperience.php
+Read one: localhost/dt173gprojekt/workexperience.php?id=X
+Update: localhost/dt173gprojekt/workexperience.php?id=X
+Delete: localhost/dt173gprojekt/workexperience.php?id=X
+
+X= id-number
